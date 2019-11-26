@@ -1,8 +1,8 @@
 /*
  * demo_mqtt.h
  *
- *  Created on: May 29, 2019
- *      Author: Mike
+ *  Created on: 11 26, 2019
+ *      Author: cch
  */
 
 #ifndef APPLICATION_CODE_DEMO_MQTT_H_
